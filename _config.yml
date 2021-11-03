@@ -19,7 +19,7 @@ avatar: https://i.imgur.com/vGXDuxM.png
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/The-Newbie-100739619094069
   flickr:
   github: barryclark/jekyll-now
   instagram:
@@ -86,3 +86,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-architect
+google_font:
+  - url: "http://fonts.googleapis.com/css?family=Merriweather:wght@300&display=swap"
