@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+
+google_font:
+  url: "http://fonts.googleapis.com/css?family=Merriweather:wght@300&display=swap"
+
 # Name of your site (displayed in the header)
 name: The Newbie Blog
 
@@ -86,5 +90,3 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-architect
-google_font:
-  - url: "http://fonts.googleapis.com/css?family=Merriweather:wght@300&display=swap"
